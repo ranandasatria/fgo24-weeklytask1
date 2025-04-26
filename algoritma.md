@@ -1,3 +1,5 @@
+## Test commit via terminal
+
 # Weekly Task 1 
 
 ## Deteksi Palindrom
